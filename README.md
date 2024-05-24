@@ -21,8 +21,8 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository**:
-git clone https://github.com/SeanFarqu/real-estate-dashboard.git
-cd real-estate-dashboard
+git clone https://github.com/SeanFarqu/Real_Estate_Opportunity_Dashboard_US.git
+cd Real_Estate_Opportunity_Dashboard_US
 
 2. **Install the required packages**:
 pip install streamlit pandas plotly geopandas prophet fiona
@@ -37,7 +37,7 @@ pip install streamlit pandas plotly geopandas prophet fiona
 ## Usage
 
 1. **Run the Streamlit app**:
-streamlit run Real_Estate_Dashboard.py
+streamlit run Real_Estate_Dashboard_US.py
 
 2. **Explore the Dashboard**:
 - The main page displays a map of the US with color-coded regions representing the best investment opportunities based on forecasted price increases.
