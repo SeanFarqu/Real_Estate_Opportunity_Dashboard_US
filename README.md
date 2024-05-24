@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository**:
-git clone https://github.com/yourusername/real-estate-dashboard.git
+git clone https://github.com/SeanFarqu/real-estate-dashboard.git
 cd real-estate-dashboard
 
 2. **Install the required packages**:
@@ -49,10 +49,6 @@ streamlit run Real_Estate_Dashboard.py
 - `Real_Estate_Dashboard.py`: The main Python script for running the Streamlit dashboard.
 - `State_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv`: The dataset containing historical home prices.
 - `ne_110m_admin_1_states_provinces.*`: The shapefiles for US states from Natural Earth.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
